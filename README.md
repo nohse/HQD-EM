@@ -1,7 +1,11 @@
 # HQD-EM: Robust VQA with Hierarchical Question Decomposition & Ensemble Margin
+accepted in 2025 CVPR Workshop Vizwiz Grand Challenge
+under review in 2025 Knowledge Based Systems(Q1, IF : 7.6)
 
 For the best performing model, you can download our best performing model from 
-Best model: Download here (https://drive.google.com/drive/folders/1-aADgu93SDutxhjZQpT5ARD_a6msxSNS?usp=drive_link)
+Best model: Download here 
+
+(https://drive.google.com/drive/folders/1-aADgu93SDutxhjZQpT5ARD_a6msxSNS?usp=drive_link)
 
 # Model Architecture
 
