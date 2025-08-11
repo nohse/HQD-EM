@@ -15,6 +15,6 @@ EM (Ensemble + Margin): Ensembles models with different backbones/training seeds
 
 # Results
 Table on VQA CP2
-<p align="center"> <img src="assets/hqd_em_model_result.jpg" alt="HQD-EM Results" width="850"> </p> 
+<p align="center"> <img src="assets/hqd_em_model_result.jpg" alt="HQD-EM Results" width="650"> </p> 
 
 You can see that our model outperforms other methods overall; in particular, it achieves strong results on the challenging Num and Other categories.
