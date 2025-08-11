@@ -5,7 +5,9 @@ Best model: Download here (https://drive.google.com/drive/folders/1-aADgu93SDutx
 
 # Model Architecture
 
-<p align="center"> <img src="assets/hqd_em_architecture.jpg" alt="HQD-EM Architecture" width="850"> </p> Key ideas
+<p align="center"> <img src="assets/hqd_em_architecture.jpg" alt="HQD-EM Architecture" width="850"> </p> 
+
+Key ideas
 HQD (Hierarchical Question Decomposition): Decomposes complex questions into sub-queries (e.g., subject → attribute → relation) to mitigate language bias.
 
 EM (Ensemble + Margin): Ensembles models with different backbones/training seeds and expands the decision boundary using an Adaptive Angular Margin.
