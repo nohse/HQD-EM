@@ -12,3 +12,9 @@ Key ideas
 HQD (Hierarchical Question Decomposition): Decomposes complex questions into sub-queries (e.g., subject → attribute → relation) to mitigate language bias.
 
 EM (Ensemble + Margin): Ensembles models with different backbones/training seeds and expands the decision boundary using an Adaptive Angular Margin.
+
+# Results
+Table on VQA CP2
+<p align="center"> <img src="assets/hqd_em_model_result.jpg" alt="HQD-EM Architecture" width="850"> </p> 
+
+you can see that our models preformance overall other methods, especially 
