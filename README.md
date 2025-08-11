@@ -1,6 +1,6 @@
 # HQD-EM: Robust VQA with Hierarchical Question Decomposition & Ensemble Margin
-TL;DR: HQD-EM은 질문을 계층적으로 분해(HQD)해 편향을 낮추고, 앙상블 + 적응형 마진 로스로 일반화를 끌어올린 VQA 모델입니다.
 
+For the best performing model, you can download our best performing model from 
 Best model: Download here (https://drive.google.com/drive/folders/1-aADgu93SDutxhjZQpT5ARD_a6msxSNS?usp=drive_link)
 
 # Model Architecture
